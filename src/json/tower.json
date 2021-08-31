@@ -1,0 +1,527 @@
+{
+    "Tower": [
+        {
+            "Floor": "1",
+            "Items": "Infinity Coin",
+            "Quantity": "x1",
+            "Gold Rewards": "4000",
+            "Accumulated Gold": "4000",
+            "Fame": "520",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "2",
+            "Items": "Infinity Coin",
+            "Quantity": "x2",
+            "Gold Rewards": "8000",
+            "Accumulated Gold": "12000",
+            "Fame": "540",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "3",
+            "Items": "Paimon's Raid Seal",
+            "Quantity": "x1",
+            "Gold Rewards": "12000",
+            "Accumulated Gold": "24000",
+            "Fame": "560",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "4",
+            "Items": "Infinity Coin",
+            "Quantity": "x3",
+            "Gold Rewards": "16000",
+            "Accumulated Gold": "40000",
+            "Fame": "580",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "5",
+            "Items": "Celestial Spire Reset Ticket",
+            "Quantity": "x1",
+            "Gold Rewards": "20000",
+            "Accumulated Gold": "60000",
+            "Fame": "600",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Items": "Infinity Coin",
+            "Quantity": "x4",
+            "Accumulated Gold": "60000",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "6",
+            "Items": "Shiny Sky Blue Gemstone",
+            "Quantity": "x1",
+            "Gold Rewards": "24000",
+            "Accumulated Gold": "84000",
+            "Fame": "620",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "7",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "28000",
+            "Accumulated Gold": "112000",
+            "Fame": "640",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "8",
+            "Items": "Shiny Sky Blue Gemstone",
+            "Quantity": "x1",
+            "Gold Rewards": "32000",
+            "Accumulated Gold": "144000",
+            "Fame": "660",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "9",
+            "Items": "Celestial Spire Reset Ticket",
+            "Quantity": "x1",
+            "Gold Rewards": "36000",
+            "Accumulated Gold": "180000",
+            "Fame": "680",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "10",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "40000",
+            "Accumulated Gold": "220000",
+            "Fame": "700",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Items": "Celestial Spire Random Box",
+            "Quantity": "x1",
+            "Accumulated Gold": "220000",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "11",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "44000",
+            "Accumulated Gold": "264000",
+            "Fame": "720",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "12",
+            "Items": "Ancelloan's Blessing",
+            "Quantity": "x1",
+            "Gold Rewards": "48000",
+            "Accumulated Gold": "312000",
+            "Fame": "740",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "13",
+            "Items": "Paimon's Raid Seal",
+            "Quantity": "x3",
+            "Gold Rewards": "52000",
+            "Accumulated Gold": "364000",
+            "Fame": "760",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "14",
+            "Items": "Shiny Sky Blue Gemstone",
+            "Quantity": "x2",
+            "Gold Rewards": "56000",
+            "Accumulated Gold": "420000",
+            "Fame": "780",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "15",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "60000",
+            "Accumulated Gold": "480000",
+            "Fame": "800",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Items": "Celestial Spire Reset Ticket",
+            "Quantity": "x2",
+            "Accumulated Gold": "480000",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "16",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "64000",
+            "Accumulated Gold": "544000",
+            "Fame": "820",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "17",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "68000",
+            "Accumulated Gold": "612000",
+            "Fame": "840",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "18",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "72000",
+            "Accumulated Gold": "684000",
+            "Fame": "860",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "19",
+            "Items": "Celestial Spire Random Box",
+            "Quantity": "x1",
+            "Gold Rewards": "76000",
+            "Accumulated Gold": "760000",
+            "Fame": "880",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "20",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "80000",
+            "Accumulated Gold": "840000",
+            "Fame": "900",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Items": "Infinity Coin",
+            "Quantity": "x2",
+            "Accumulated Gold": "840000",
+            "Last Wave Time": "07:00"
+        },
+        {
+            "Floor": "21",
+            "Items": "Paimon's Raid Seal",
+            "Quantity": "x3",
+            "Gold Rewards": "105000",
+            "Accumulated Gold": "945000",
+            "Fame": "920",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "22",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "110000",
+            "Accumulated Gold": "1055000",
+            "Fame": "940",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "23",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "115000",
+            "Accumulated Gold": "1170000",
+            "Fame": "960",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "24",
+            "Items": "Shiny Sky Blue Gemstone",
+            "Quantity": "x5",
+            "Gold Rewards": "120000",
+            "Accumulated Gold": "1290000",
+            "Fame": "980",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "25",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "125000",
+            "Accumulated Gold": "1415000",
+            "Fame": "1000",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Items": "Celestial Spire Random Box",
+            "Quantity": "x1",
+            "Accumulated Gold": "1415000",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "26",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "130000",
+            "Accumulated Gold": "1545000",
+            "Fame": "1020",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "27",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "135000",
+            "Accumulated Gold": "1680000",
+            "Fame": "1040",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "28",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "140000",
+            "Accumulated Gold": "1820000",
+            "Fame": "1060",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "29",
+            "Items": "Celestial Spire Reset Ticket",
+            "Quantity": "x5",
+            "Gold Rewards": "145000",
+            "Accumulated Gold": "1965000",
+            "Fame": "1080",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "30",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "150000",
+            "Accumulated Gold": "2115000",
+            "Fame": "1100",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Items": "Celestial Spire Random Pet Box",
+            "Quantity": "x1",
+            "Accumulated Gold": "2115000",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "31",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "155000",
+            "Accumulated Gold": "2270000",
+            "Fame": "1120",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "32",
+            "Items": "Ancelloan's Blessing",
+            "Quantity": "x10",
+            "Gold Rewards": "160000",
+            "Accumulated Gold": "2430000",
+            "Fame": "1140",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "33",
+            "Items": "Infinity Coin",
+            "Quantity": "x5",
+            "Gold Rewards": "165000",
+            "Accumulated Gold": "2595000",
+            "Fame": "1160",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "34",
+            "Items": "Shiny Sky Blue Gemstone",
+            "Quantity": "x10",
+            "Gold Rewards": "170000",
+            "Accumulated Gold": "2765000",
+            "Fame": "1180",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "35",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "175000",
+            "Accumulated Gold": "2940000",
+            "Fame": "1200",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Items": "Celestial Spire Random Pet Box",
+            "Quantity": "x1",
+            "Accumulated Gold": "2940000",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "36",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "180000",
+            "Accumulated Gold": "3120000",
+            "Fame": "1220",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "37",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "185000",
+            "Accumulated Gold": "3305000",
+            "Fame": "1240",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "38",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "190000",
+            "Accumulated Gold": "3495000",
+            "Fame": "1260",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "39",
+            "Items": "Shiny Sky Blue Gemstone",
+            "Quantity": "x15",
+            "Gold Rewards": "195000",
+            "Accumulated Gold": "3690000",
+            "Fame": "1280",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "40",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "200000",
+            "Accumulated Gold": "3890000",
+            "Fame": "1300",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Items": "Celestial Spire Random Pet Box",
+            "Quantity": "x2",
+            "Accumulated Gold": "3890000",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "41",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "205000",
+            "Accumulated Gold": "4095000",
+            "Fame": "1320",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "42",
+            "Items": "Infinity Coin",
+            "Quantity": "10",
+            "Gold Rewards": "210000",
+            "Accumulated Gold": "4305000",
+            "Fame": "1340",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "43",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "215000",
+            "Accumulated Gold": "4520000",
+            "Fame": "1360",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "44",
+            "Items": "Ancelloan's Blessing",
+            "Quantity": "x5",
+            "Gold Rewards": "220000",
+            "Accumulated Gold": "4740000",
+            "Fame": "1380",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "45",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "225000",
+            "Accumulated Gold": "4965000",
+            "Fame": "1400",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Items": "Celestial Spire Random Pet Box",
+            "Quantity": "x3",
+            "Accumulated Gold": "4965000",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "46",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "230000",
+            "Accumulated Gold": "5195000",
+            "Fame": "1420",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "47",
+            "Items": "Shiny Sky Blue Gemstone",
+            "Quantity": "x20",
+            "Gold Rewards": "235000",
+            "Accumulated Gold": "5430000",
+            "Fame": "1440",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "48",
+            "Items": "Infinity Coin",
+            "Quantity": "x10",
+            "Gold Rewards": "240000",
+            "Accumulated Gold": "5670000",
+            "Fame": "1460",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Items": "Corrupted Celestial Spire Fragment",
+            "Quantity": "x1",
+            "Accumulated Gold": "5670000",
+            "Last Wave Time": "06:00",
+            "undefined": "This item is used for  Paimon's tatoo"
+        },
+        {
+            "Floor": "49",
+            "Items": "Infinity Coin",
+            "Quantity": "x15",
+            "Gold Rewards": "245000",
+            "Accumulated Gold": "5915000",
+            "Fame": "1480",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Items": "Celestial Spire Random Pet Box",
+            "Quantity": "x3",
+            "Accumulated Gold": "5915000",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Floor": "50",
+            "Items": "Infinity Coin",
+            "Quantity": "x20",
+            "Gold Rewards": "250000",
+            "Accumulated Gold": "6165000",
+            "Fame": "1500",
+            "Last Wave Time": "06:00"
+        },
+        {
+            "Items": "Celestial Spire Conqueror Title",
+            "Quantity": "x1",
+            "Accumulated Gold": "6165000",
+            "Last Wave Time": "06:00"
+        }
+    ]
+}

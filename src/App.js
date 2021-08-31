@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import './style/App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <div className="App-header">   
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is not fun
         </p>
+        <p>your account has been banned by Serment until 01.01.2049 for the following reason:</p>
+        <p>Being uglier than BrightSun</p>
+        <p>If you have any questions please contact support at&nbsp;   
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://nostale.support.gameforge.com/en"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
-      </header>
+          https://nostale.support.gameforge.com/en
+        </a></p>
+        <p>Best regards,</p>
+        <p>your Nostale Team</p>       
+        </div>
     </div>
   );
 }
