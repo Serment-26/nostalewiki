@@ -2,7 +2,7 @@
   text-align: center;
   cursor: url(../images/nt_cursor_default.png),auto;
 }
-a:hover {
+img:hover,a:hover {
   cursor: url(../images/nt_cursor_pointer.png),auto;
 }
 .App-header {
