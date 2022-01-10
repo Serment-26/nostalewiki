@@ -1,0 +1,22 @@
+{"spmat":[
+        {"success":80,"fail":20,"destroy":0,"gold":200000,"fm":1,"angel":3,"etc":2},
+        {"success":75,"fail":25,"destroy":0,"gold":200000,"fm":3,"angel":5,"etc":4},
+        {"success":70,"fail":25,"destroy":5,"gold":200000,"fm":5,"angel":8,"etc":6},
+        {"success":60,"fail":30,"destroy":10,"gold":200000,"fm":7,"angel":10,"etc":8},
+        {"success":50,"fail":35,"destroy":15,"gold":200000,"fm":10,"angel":15,"etc":10},
+        {"success":40,"fail":40,"destroy":20,"gold":500000,"fm":12,"angel":20,"etc":1},
+        {"success":35,"fail":40,"destroy":25,"gold":500000,"fm":14,"angel":25,"etc":2},
+        {"success":30,"fail":40,"destroy":30,"gold":500000,"fm":16,"angel":30,"etc":3},
+        {"success":25,"fail":40,"destroy":35,"gold":500000,"fm":18,"angel":35,"etc":4},
+        {"success":20,"fail":40,"destroy":40,"gold":500000,"fm":20,"angel":40,"etc":5},
+        {"success":10,"fail":45,"destroy":45,"gold":1000000,"fm":22,"angel":45,"etc":1},
+        {"success":7,"fail":43,"destroy":50,"gold":1000000,"fm":24,"angel":50,"etc":2},
+        {"success":5,"fail":20,"destroy":55,"gold":1000000,"fm":26,"angel":55,"etc":3},
+        {"success":3,"fail":37,"destroy":60,"gold":1000000,"fm":28,"angel":60,"etc":4},
+        {"success":1.5,"fail":28.5,"destroy":70,"gold":1000000,"fm":30,"angel":70,"etc":5},
+        {"success":1.2,"fail":28.8,"destroy":70,"gold":1250000,"fm":32,"angel":80,"etc":2},
+        {"success":1.0,"fail":29.1,"destroy":70,"gold":1500000,"fm":34,"angel":90,"etc":4},
+        {"success":0.8,"fail":24.3,"destroy":75,"gold":1750000,"fm":36,"angel":100,"etc":6},
+        {"success":0.6,"fail":19.5,"destroy":80,"gold":2000000,"fm":38,"angel":110,"etc":8},
+        {"success":0.4,"fail":19.7,"destroy":80,"gold":2250000,"fm":40,"angel":120,"etc":10}]
+}

@@ -1,17 +1,19 @@
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Header from './componment/header';
+//import Header from './componment/header';
 //import reportWebVitals from './reportWebVitals';
 
+//will apply on the same div name the on same file name's html
+// ReactDOM.render(
+//   <Header/>,
+//   document.getElementById('header')
+// );
 ReactDOM.render(
     <App/>,
-  document.getElementById('body')
+  document.getElementById('root')
 );
-ReactDOM.render(
-  <Header/>,
-  document.getElementById('header')
-);
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
